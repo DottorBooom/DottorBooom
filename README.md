@@ -1,1 +1,1 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DottorBooom.DottorBooom" alt="visitor badge"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dottorbooom.dottorbooom" alt="visitor badge"/>
