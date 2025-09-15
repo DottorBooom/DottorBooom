@@ -6,7 +6,7 @@
 
 <h3 align="center"> A student and programming enthusiast from Italy </h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DottorBooom&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&custom_title=DottorBooom%20Stats&rank_icon=percentile&show=prs_merged"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Booom&theme=github_dark&langs_count=14&layout=compact&hide_border=true&hide_title=true&hide=Jupyter%20Notebook"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DottorBooom&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&custom_title=DottorBooom%20Stats&rank_icon=percentile&show=prs_merged"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Booom&theme=midnight-purple&langs_count=14&layout=donut&hide_border=true&hide_title=true&hide=Jupyter%20Notebook"/>
 
 <br/>
 
