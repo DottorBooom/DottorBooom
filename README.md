@@ -14,33 +14,24 @@
 
 # 💫 About Me:
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <!-- Colonna del Testo (Sinistra) -->
-    <td valign="top" width="60%" style="border: none; background: transparent;">
-      
 * 🎓 I'm a student and AI developer based in Italy 🇮🇹
 * 🏛️ I'm currently pursuing a [Master's degree in Artificial Intelligence](https://degree.units.it/en/0320107313600001) at the University of Trieste.
-* 🔬 I'm doing an internship at the [ICTP](https://www.ictp.it/), working under the supervision of Prof. A. Celani.
+* 🔬 I'm doing an internship at the [ICTP](https://www.ictp.it/), working under the supervision of Prof. A. Celani. <img align="right" width="320" src="https://github.com/user-attachments/assets/4114c857-50c6-4188-a5cf-4c53724e557c" alt="Coding GIF"/>
 * 💬 Feel free to ask me about anything — I'm always looking for new things to learn and collaborate on!
 
-* 🧠 **Research Interests:** Reinforcement Learning, Deep Learning, Machine Learning, Stochastic Processes, and Cyber-Physical Systems (but still looking for cool new subjects!).
+* 🧠 **Research Interests:** Reinforcement Learning, Deep Learning, Machine Learning, <br>Stochastic Processes, and Cyber-Physical Systems (but still looking for cool new subjects!).
 * 🚀 **Current Focus:** Research on Inverse Reinforcement Learning (IRL) and Inverse Inference.
 * ⚡ **Fun Fact:** When I'm not training models, I'm probably training in the gym, playing the One Piece TCG, or playing video games.
-
-    </td>
-    <!-- Colonna della GIF (Destra) -->
-    <td valign="center" align="center" width="40%" style="border: none; background: transparent;">
-      <img src="https://media1.tenor.com/m/9bPYGLwfmBwAAAAC/cat-fast-typing.gif" alt="Coding GIF" width="100%" />
-    </td>
-  </tr>
-</table>
 
 <!-- What I code with/What is my tech stack -->
 
 # 💻 My Tools:
-
-Here is a glimpse of my tech stack — ranging from tools I master and use daily, to ones I have experimented with in past projects. I am constantly expanding my Swiss Army knife of skills to quickly adapt to new technologies and challenges.
+<p>
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZ3M3ZjbnJzc2hwM2QyNTRkbXVtdTl6NTFwenpkc3B5aWdsMmc0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rXywhIbNMIwC1EnZk/giphy.gif" alt="Coding GIF" width="400"/>
+  <br/> <br/>
+  Here is a glimpse of my tech stack — ranging from tools I master and use daily, to ones I have experimented with in past projects. I am constantly expanding my Swiss Army knife of skills to quickly adapt to new technologies and challenges.
+</p>
+<br clear="right"/>
 
 ## ⌨️ Programming and Markup Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED6B06.svg?style=for-the-badge&logo=MathWorks&logoColor=white)
