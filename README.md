@@ -19,7 +19,7 @@
 * 🔬 I'm doing an internship at the [ICTP](https://www.ictp.it/), working under the supervision of Prof. A. Celani. <img align="right" width="320" src="https://github.com/user-attachments/assets/4114c857-50c6-4188-a5cf-4c53724e557c" alt="Coding GIF"/>
 * 💬 Feel free to ask me about anything — I'm always looking for new things to learn and collaborate on!
 
-* 🧠 **Research Interests:** Reinforcement Learning, Deep Learning, Machine Learning, <br>Stochastic Processes, and Cyber-Physical Systems (but still looking for cool new subjects!).
+* 🧠 **Research Interests:** Reinforcement Learning, Deep Learning, Machine Learning, Stochastic Processes, and Cyber-Physical Systems (but still looking for cool new subjects!).
 * 🚀 **Current Focus:** Research on Inverse Reinforcement Learning (IRL) and Inverse Inference.
 * ⚡ **Fun Fact:** When I'm not training models, I'm probably training in the gym, playing the One Piece TCG, or playing video games.
 
