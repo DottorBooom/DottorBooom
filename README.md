@@ -19,6 +19,12 @@
 * 🔬 I'm doing an internship at the [ICTP](https://www.ictp.it/), working under the supervision of Prof. A. Celani. <img align="right" width="320" src="https://github.com/user-attachments/assets/4114c857-50c6-4188-a5cf-4c53724e557c" alt="Coding GIF"/>
 * 💬 Feel free to ask me about anything — I'm always looking for new things to learn and collaborate on!
 
+<p align="left">
+  <a href="./Certifications/MyCV.pdf">
+    <img src="https://img.shields.io/badge/View_My_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV Badge"/>
+  </a>
+</p>
+
 * 🧠 **Research Interests:** Reinforcement Learning, Deep Learning, Machine Learning, Stochastic Processes, and Cyber-Physical Systems (but still looking for cool new subjects!).
 * 🚀 **Current Focus:** Research on Inverse Reinforcement Learning (IRL) and Inverse Inference.
 * ⚡ **Fun Fact:** When I'm not training models, I'm probably training in the gym, playing the One Piece TCG, or playing video games.
@@ -44,6 +50,9 @@
 
 ## 🛠️ Software and tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Fedora Linux](https://img.shields.io/badge/Fedora_Linux-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=brave&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Bambu Studio](https://img.shields.io/badge/Bambu_Studio-00D37F?style=for-the-badge&logo=bambulab&logoColor=white) ![Autodesk](https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 📜 Certifications
+![Cisco IT Essentials](https://img.shields.io/badge/Cisco-IT_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![AIDA ECDL Base](https://img.shields.io/badge/ECDL-Base-0055A5?style=for-the-badge) ![EUCIP IT Administrator](https://img.shields.io/badge/AIDA_EUCIP-IT_Administrator-0033A0?style=for-the-badge)
 
 <!-- Lower section -->
 <!-- GitHub Stats -->
