@@ -9,14 +9,13 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hello+There!++I'm+Davide!;%F0%9F%92%A1+Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!-- Middle section -->
+<!-- Middle section * 🔬 I'm doing an internship at the [ICTP](https://www.ictp.it/), working under the supervision of Prof. A. Celani. -->
 <!-- About Me: -->
 
 # 💫 About Me:
 
 * 🎓 I'm a student and AI developer based in Italy 🇮🇹
-* 🏛️ I'm currently pursuing a [Master's degree in Artificial Intelligence](https://degree.units.it/en/0320107313600001) at the University of Trieste.
-* 🔬 I'm doing an internship at the [ICTP](https://www.ictp.it/), working under the supervision of Prof. A. Celani. <img align="right" width="320" src="https://github.com/user-attachments/assets/4114c857-50c6-4188-a5cf-4c53724e557c" alt="Coding GIF"/>
+* 🏛️ I'm currently pursuing a [Master's degree in Artificial Intelligence](https://degree.units.it/en/0320107313600001) at the University of Trieste. <img align="right" width="320" src="https://github.com/user-attachments/assets/4114c857-50c6-4188-a5cf-4c53724e557c" alt="Coding GIF"/>
 * 💬 Feel free to ask me about anything — I'm always looking for new things to learn and collaborate on!
 
 <p align="left">
